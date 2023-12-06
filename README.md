@@ -9,3 +9,8 @@
   Search Contacts: Search for a contact by name or phone number.
   Update Contacts: Modify existing contact information.
   Delete Contacts: Remove a contact from the list.
+
+# Usage
+Upon running the program, follow the on-screen prompts and instructions displayed in the console.
+Use numeric options to navigate through the menu (e.g., enter '1' to add a contact, '2' to view contacts, etc.).
+Follow the instructions for each operation (adding, viewing, updating, searching, deleting contacts).
